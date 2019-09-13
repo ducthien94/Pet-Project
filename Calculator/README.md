@@ -1,2 +1,1 @@
-# Pet-Project
-HTML5, CSS3, JS, jQuery, Bootstrap 4 and so on
+# [Preview Calculator](https://ducthien94.github.io/Pet-Project/Calculator/)
